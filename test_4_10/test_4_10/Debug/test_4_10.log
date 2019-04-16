@@ -1,0 +1,3 @@
+﻿  tets_4_10.c
+c:\users\刘佳\desktop\class code\test_4_10\test_4_10\tets_4_10.c(147): warning C4013: “system”未定义；假设外部返回 int
+  test_4_10.vcxproj -> C:\Users\刘佳\Desktop\class code\test_4_10\Debug\test_4_10.exe
