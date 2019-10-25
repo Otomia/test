@@ -1,0 +1,4 @@
+﻿  TestMain.c
+c:\users\刘佳\desktop\class code\test\datastruct\datastruct\bst.h(63): warning C4715: “BSTreeInsert_1”: 不是所有的控件路径都返回值
+c:\users\刘佳\desktop\class code\test\datastruct\datastruct\bst.h(105): warning C4715: “BSTFind_1”: 不是所有的控件路径都返回值
+  DataStruct.vcxproj -> C:\Users\刘佳\Desktop\class code\test\DataStruct\Debug\DataStruct.exe
