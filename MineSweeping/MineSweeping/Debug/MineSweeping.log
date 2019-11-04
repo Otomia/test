@@ -1,0 +1,9 @@
+﻿  game.c
+c:\users\刘佳\desktop\class code\test\minesweeping\minesweeping\game.c(73): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+c:\users\刘佳\desktop\class code\test\minesweeping\minesweeping\game.c(77): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+c:\users\刘佳\desktop\class code\test\minesweeping\minesweeping\game.c(81): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+c:\users\刘佳\desktop\class code\test\minesweeping\minesweeping\game.c(85): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+c:\users\刘佳\desktop\class code\test\minesweeping\minesweeping\game.c(89): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+c:\users\刘佳\desktop\class code\test\minesweeping\minesweeping\game.c(93): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+c:\users\刘佳\desktop\class code\test\minesweeping\minesweeping\game.c(97): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+  MineSweeping.vcxproj -> C:\Users\刘佳\Desktop\class code\test\MineSweeping\Debug\MineSweeping.exe
